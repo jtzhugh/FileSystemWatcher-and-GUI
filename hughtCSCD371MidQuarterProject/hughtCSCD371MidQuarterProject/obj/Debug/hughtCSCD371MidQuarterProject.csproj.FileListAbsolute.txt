@@ -1,0 +1,16 @@
+C:\Users\tyger\source\repos\hughtCSCD371MidQuarterProject\hughtCSCD371MidQuarterProject\obj\Debug\hughtCSCD371MidQuarterProject.csprojResolveAssemblyReference.cache
+C:\Users\tyger\source\repos\hughtCSCD371MidQuarterProject\hughtCSCD371MidQuarterProject\obj\Debug\hughtCSCD371MidQuarterProject.Properties.Resources.resources
+C:\Users\tyger\source\repos\hughtCSCD371MidQuarterProject\hughtCSCD371MidQuarterProject\obj\Debug\hughtCSCD371MidQuarterProject.csproj.GenerateResource.Cache
+C:\Users\tyger\source\repos\hughtCSCD371MidQuarterProject\hughtCSCD371MidQuarterProject\obj\Debug\hughtCSCD371MidQuarterProject.csproj.CoreCompileInputs.cache
+C:\Users\tyger\source\repos\hughtCSCD371MidQuarterProject\hughtCSCD371MidQuarterProject\bin\Debug\hughtCSCD371MidQuarterProject.exe.config
+C:\Users\tyger\source\repos\hughtCSCD371MidQuarterProject\hughtCSCD371MidQuarterProject\bin\Debug\hughtCSCD371MidQuarterProject.exe
+C:\Users\tyger\source\repos\hughtCSCD371MidQuarterProject\hughtCSCD371MidQuarterProject\bin\Debug\hughtCSCD371MidQuarterProject.pdb
+C:\Users\tyger\source\repos\hughtCSCD371MidQuarterProject\hughtCSCD371MidQuarterProject\obj\Debug\hughtCSCD371MidQuarterProject.exe
+C:\Users\tyger\source\repos\hughtCSCD371MidQuarterProject\hughtCSCD371MidQuarterProject\obj\Debug\hughtCSCD371MidQuarterProject.pdb
+C:\Users\tyger\source\repos\hughtCSCD371MidQuarterProject\hughtCSCD371MidQuarterProject\bin\Debug\System.Data.SQLite.dll
+C:\Users\tyger\source\repos\hughtCSCD371MidQuarterProject\hughtCSCD371MidQuarterProject\bin\Debug\System.Data.SQLite.pdb
+C:\Users\tyger\source\repos\hughtCSCD371MidQuarterProject\hughtCSCD371MidQuarterProject\bin\Debug\System.Data.SQLite.xml
+C:\Users\tyger\source\repos\hughtCSCD371MidQuarterProject\hughtCSCD371MidQuarterProject\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\tyger\source\repos\hughtCSCD371MidQuarterProject\hughtCSCD371MidQuarterProject\obj\Debug\hughtCSCD371MidQuarterProject.MainWindow.resources
+C:\Users\tyger\source\repos\hughtCSCD371MidQuarterProject\hughtCSCD371MidQuarterProject\obj\Debug\hughtCSCD371MidQuarterProject.QueryForm.resources
+C:\Users\tyger\source\repos\hughtCSCD371MidQuarterProject\hughtCSCD371MidQuarterProject\obj\Debug\hughtCSCD371MidQuarterProject.helpForm.resources
